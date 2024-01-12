@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'spotify:app',
 		},
 		{
 			id: '2',
